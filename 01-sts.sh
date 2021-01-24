@@ -1,7 +1,7 @@
 export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
 export AWS_DEFAULT_REGION=me-south-1
-export s3_bucket_name=ek-fileupload-ebd-bah
+export s3_bucket_name=fileupload-test-bucket
 export s3_assume_role_arn=arn:aws:iam::1212121212:role/s3-test-Role
 export s3_role_session_name=sample-test-session-1
 
